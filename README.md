@@ -1,5 +1,5 @@
 # Database_Assignments
-Made use  of sql statements to answer the following questions using the netflix_titles dataset.
+Made use  of sql queries to answer the following questions using the netflix_titles dataset.
 1. How many movies or shows were released in every year in the dataset?
 2. How many movies/ shows are there?
 3. How many distinct types are there?
